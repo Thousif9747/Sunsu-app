@@ -3,6 +3,7 @@ import type { CSSProperties } from "react";
 import "./globals.css";
 import "@/site/fonts";
 import "@/site/site.css";
+import "@/site/explore.css";
 import { meta, theme } from "@/site/site";
 
 export const metadata: Metadata = {
